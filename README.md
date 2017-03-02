@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Identicon
 
 Following Stephen Grider's "The Complete Elixir and Phoenix Bootcamp" course on Udemy
@@ -22,3 +23,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+=======
+# PhoenixIdenticon
+Following Stephen Grider's "The Complete Elixir and Phoenix Bootcamp" course on Udemy
+>>>>>>> b24ed12fa9b134ae3a7193b748c520460abb32af
